@@ -191,6 +191,7 @@ Heart-Disease-Prediction/
 ├── knn_heart.pkl
 ├── scaler.pkl
 ├── columns.pkl
+├── requirements.txt
 ├── .gitignore
 ├── Heart Disease Prediction.ipynb
 └── README.md
